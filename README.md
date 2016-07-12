@@ -1,5 +1,7 @@
+
 ## Front-End Develop 项目精选
-## 由[@icepy](http://weibo.com/2455876310)负责整理
+
+转自[@icepy](http://weibo.com/2455876310)：[https://github.com/icepy/Front-End-Develop-Guide](https://github.com/icepy/Front-End-Develop-Guide)
 
 > 站在个人的角度，针对开源项目做了一个甄别、筛选以及介绍。
 
